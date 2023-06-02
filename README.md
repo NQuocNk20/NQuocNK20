@@ -1,9 +1,11 @@
 
-<h1 align="left">Hi 👋, I'm Quoc Nguyen</h1>
-<p align="center">
+<h1 align="center">Hi 👋, I'm Quoc Nguyen</h1>
+<br /><br/>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="right">
   <h3 align="center">A passionate Web App developer from Vietnam 🇻🇳 </h3>
 </p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🤝 I’m available for freelancing.
 
@@ -33,7 +35,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,js,git,github,php,ps,figma,mysql,nodejs,firebase,postman,react,redux,tailwind,ts,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,js,git,github,php,ps,figma,mysql,nodejs,firebase,postman,react,redux,tailwind,ts,cs,dotnet,visualstudio,vscode&perline=14" />
   </a>
 </p>
 </br></br>
