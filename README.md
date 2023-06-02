@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
   <a href="mailto:quoc.nng2002@gmail.com" alt="Email">
-    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"  height="50" width="50"/>
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"  height="40" width="40"/>
   </a>
 </p>
 
