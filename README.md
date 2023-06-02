@@ -1,18 +1,19 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Quoc Nguyen</h1>
+
+<h1 align="left">Hi 👋, I'm Quoc Nguyen</h1>
 <p align="center">
   <h3 align="center">A passionate Web App developer from Vietnam 🇻🇳 </h3>
 </p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🤝 I’m available for freelancing.
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 
 <br /><br/>
+
+<!--icons and links-->
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/quoc-ngn-9b76aa275/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -23,35 +24,44 @@
    <a style="margin-left: 10px;" target="_blank" href="mailto:quoc.nng2002@gmail.com" alt="Email">
 				<img width="48" height="48" src="https://img.icons8.com/doodle/48/gmail-new.png" alt="gmail-new"/></a>
 </p
-
-## Skills:
+	 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,js,git,github,php,ps,figma,mysql,nodejs,firebase,postman,react,redux,tailwind,ts,visualstudio,vscode&perline=14" />
+  </a>
+</p>
+</br></br>
+	
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+	<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+	
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-## Activities:
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-1
