@@ -13,6 +13,8 @@
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/quoc-ngn-9b76aa275/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -24,7 +26,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
   <a href="mailto:quoc.nng2002@gmail.com" alt="Email">
-    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"/>
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"  height="50" width="50"/>
   </a>
 </p>
 
