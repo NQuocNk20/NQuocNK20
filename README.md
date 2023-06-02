@@ -8,8 +8,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br/>
 🎓 &nbsp;I'm currently studying Faculty of information technology at the University.<br/>
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-📄 &nbsp;Please have a look at my <a href="" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br/>
+📄 &nbsp;Please have a look at my <a href="" target="blank">Resume</a> for more details about me. I'm open to feedback and suggestions! <br/>
 🤝 I’m available for freelancing.
 
 <br /><br/>
