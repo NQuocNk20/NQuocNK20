@@ -9,26 +9,20 @@
 
 <br />
 
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quoc-ngn-9b76aa275/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010587041749" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/NQuocNk20" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a>
-  <a href="mailto:quoc.nng2002@gmail.com" alt="Email">
-    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"  height="30" width="30"/>
-  </a>
-</p>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/quoc-ngn-9b76aa275/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/NQuocNk20" alt="Github">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCFjMh2zZxaMiQdyZRQz6E4g">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+   <a style="margin-left: 10px;" target="_blank" href="mailto:quoc.nng2002@gmail.com" alt="Email">
+				<img src="https://icons8.com/icon/td499GRWwrWC/gmail-logo" ></a>
+</p
 
 ## Skills:
 <p align="center">
