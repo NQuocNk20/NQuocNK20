@@ -21,7 +21,7 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCFjMh2zZxaMiQdyZRQz6E4g">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
    <a style="margin-left: 10px;" target="_blank" href="mailto:quoc.nng2002@gmail.com" alt="Email">
-				<img src="https://icons8.com/icon/td499GRWwrWC/gmail-logo" ></a>
+				<img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" ></a>
 </p
 
 ## Skills:
